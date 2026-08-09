@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70mm" height="40.29mm" viewBox="0 0 288 166">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <polygon points="144.00,48.00 48.00,117.75 240.00,117.75" fill="none" stroke="#000000" stroke-width="1.7" stroke-linejoin="round"/>
+  <line x1="144.00" y1="48.00" x2="121.34" y2="117.75" stroke="#000000" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <line x1="84.67" y1="123.75" x2="84.67" y2="111.75" stroke="#000000" stroke-width="1.15"/>
+  <line x1="126.96" y1="81.02" x2="138.38" y2="84.73" stroke="#000000" stroke-width="1.15"/>
+  <line x1="187.06" y1="86.70" x2="194.11" y2="76.99" stroke="#000000" stroke-width="1.15"/>
+  <line x1="189.89" y1="88.76" x2="196.94" y2="79.05" stroke="#000000" stroke-width="1.15"/>
+  <line x1="182.42" y1="111.75" x2="182.42" y2="123.75" stroke="#000000" stroke-width="1.15"/>
+  <line x1="178.92" y1="111.75" x2="178.92" y2="123.75" stroke="#000000" stroke-width="1.15"/>
+  <circle cx="144.00" cy="48.00" r="2.60" fill="#000000" stroke="none"/>
+  <text x="144.00" y="38.95" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="middle" fill="#000000">A</text>
+  <circle cx="48.00" cy="117.75" r="2.60" fill="#000000" stroke="none"/>
+  <text x="35.01" y="131.20" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="end" fill="#000000">B</text>
+  <circle cx="240.00" cy="117.75" r="2.60" fill="#000000" stroke="none"/>
+  <text x="252.99" y="131.20" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="start" fill="#000000">C</text>
+  <circle cx="121.34" cy="117.75" r="2.60" fill="#000000" stroke="none"/>
+  <text x="121.34" y="138.70" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="middle" fill="#000000">D</text>
+</svg>
