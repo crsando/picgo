@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140mm" height="92.30mm" viewBox="0 0 648 427">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <polygon points="374.40,168.00 48.00,379.20 432.00,379.20 600.00,268.80" fill="none" stroke="#000000" stroke-width="1.7" stroke-linejoin="round"/>
+  <line x1="374.40" y1="168.00" x2="432.00" y2="379.20" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="48.00" y1="379.20" x2="600.00" y2="268.80" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="240.00" y1="48.00" x2="48.00" y2="379.20" stroke="#000000" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <line x1="240.00" y1="48.00" x2="432.00" y2="379.20" stroke="#000000" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <line x1="240.00" y1="48.00" x2="600.00" y2="268.80" stroke="#000000" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <line x1="240.00" y1="48.00" x2="374.40" y2="168.00" stroke="#000000" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <path d="M 71.53 374.49 A 24.00 24.00 0 0 0 68.15 366.16" fill="none" stroke="#000000" stroke-width="1.15"/>
+  <text x="83.21" y="368.90" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-style="italic" text-anchor="middle" fill="#000000">α</text>
+  <path d="M 578.09 259.01 A 24.00 24.00 0 0 0 576.47 273.51" fill="none" stroke="#000000" stroke-width="1.15"/>
+  <text x="562.24" y="268.58" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-style="italic" text-anchor="middle" fill="#000000">2α</text>
+  <path d="M 576.47 273.51 A 24.00 24.00 0 0 0 579.94 281.98" fill="none" stroke="#000000" stroke-width="1.15"/>
+  <text x="564.84" y="287.23" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-style="italic" text-anchor="middle" fill="#000000">30°</text>
+  <circle cx="374.40" cy="168.00" r="2.60" fill="#000000" stroke="none"/>
+  <text x="381.90" y="160.96" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="start" fill="#000000">A</text>
+  <circle cx="48.00" cy="379.20" r="2.60" fill="#000000" stroke="none"/>
+  <text x="33.00" y="385.15" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="end" fill="#000000">B</text>
+  <circle cx="432.00" cy="379.20" r="2.60" fill="#000000" stroke="none"/>
+  <text x="439.50" y="398.14" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="start" fill="#000000">C</text>
+  <circle cx="600.00" cy="268.80" r="2.60" fill="#000000" stroke="none"/>
+  <text x="615.00" y="274.75" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="start" fill="#000000">D</text>
+  <circle cx="240.00" cy="48.00" r="2.60" fill="#000000" stroke="none"/>
+  <text x="240.00" y="38.95" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="middle" fill="#000000">O</text>
+</svg>
