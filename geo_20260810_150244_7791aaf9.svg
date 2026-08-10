@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70mm" height="61.03mm" viewBox="0 0 288 252">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <line x1="137.76" y1="48.00" x2="108.00" y2="99.84" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="108.00" y1="99.84" x2="48.00" y2="203.52" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="48.00" y1="203.52" x2="108.00" y2="203.52" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="108.00" y1="203.52" x2="227.52" y2="203.52" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="227.52" y1="203.52" x2="137.76" y2="48.00" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="137.76" y1="48.00" x2="124.80" y2="114.72" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="124.80" y1="114.72" x2="112.32" y2="181.44" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="112.32" y1="181.44" x2="108.00" y2="203.52" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="227.52" y1="203.52" x2="124.80" y2="114.72" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="124.80" y1="114.72" x2="108.00" y2="99.84" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="48.00" y1="203.52" x2="112.32" y2="181.44" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="227.52" y1="203.52" x2="112.32" y2="181.44" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="137.76" y1="48.00" x2="240.48" y2="136.80" stroke="#000000" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <line x1="112.32" y1="181.44" x2="240.48" y2="136.80" stroke="#000000" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <line x1="227.52" y1="203.52" x2="240.48" y2="136.80" stroke="#000000" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <path d="M 110.02 193.22 L 121.80 195.48 L 124.11 183.70" fill="none" stroke="#000000" stroke-width="1.15"/>
+  <circle cx="137.76" cy="48.00" r="2.60" fill="#000000" stroke="none"/>
+  <text x="137.76" y="38.95" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="middle" fill="#000000">A</text>
+  <circle cx="48.00" cy="203.52" r="2.60" fill="#000000" stroke="none"/>
+  <text x="40.50" y="222.46" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="end" fill="#000000">B</text>
+  <circle cx="227.52" cy="203.52" r="2.60" fill="#000000" stroke="none"/>
+  <text x="235.02" y="222.46" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="start" fill="#000000">C</text>
+  <circle cx="108.00" cy="99.84" r="2.60" fill="#000000" stroke="none"/>
+  <text x="95.01" y="98.29" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="end" fill="#000000">D</text>
+  <circle cx="108.00" cy="203.52" r="2.60" fill="#000000" stroke="none"/>
+  <text x="108.00" y="224.47" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="middle" fill="#000000">E</text>
+  <circle cx="124.80" cy="114.72" r="2.60" fill="#000000" stroke="none"/>
+  <text x="139.80" y="120.67" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="start" fill="#000000">F</text>
+  <circle cx="112.32" cy="181.44" r="2.60" fill="#000000" stroke="none"/>
+  <text x="99.33" y="179.89" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="end" fill="#000000">G</text>
+  <circle cx="240.48" cy="136.80" r="2.60" fill="#000000" stroke="none"/>
+  <text x="255.48" y="142.75" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="start" fill="#000000">P</text>
+</svg>
