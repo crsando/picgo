@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70mm" height="65.73mm" viewBox="0 0 503 472">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <line x1="71.04" y1="232.32" x2="455.04" y2="232.32" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="455.04" y1="232.32" x2="209.28" y2="48.00" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="209.28" y1="48.00" x2="71.04" y2="232.32" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="209.28" y1="48.00" x2="263.04" y2="424.32" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="263.04" y1="424.32" x2="263.04" y2="232.32" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="263.04" y1="424.32" x2="71.04" y2="232.32" stroke="#000000" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <line x1="263.04" y1="424.32" x2="455.04" y2="232.32" stroke="#000000" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <line x1="263.04" y1="424.32" x2="48.00" y2="263.04" stroke="#000000" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <line x1="263.04" y1="424.32" x2="424.32" y2="209.28" stroke="#000000" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <line x1="263.04" y1="232.32" x2="140.16" y2="140.16" stroke="#000000" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <line x1="263.04" y1="232.32" x2="332.16" y2="140.16" stroke="#000000" stroke-width="1.15" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <path d="M 202.08 57.60 L 211.68 64.80 L 218.88 55.20" fill="none" stroke="#000000" stroke-width="1.15"/>
+  <path d="M 263.04 244.32 L 275.04 244.32 L 275.04 232.32" fill="none" stroke="#000000" stroke-width="1.15"/>
+  <path d="M 55.20 253.44 L 64.80 260.64 L 57.60 270.24" fill="none" stroke="#000000" stroke-width="1.15"/>
+  <path d="M 414.72 202.08 L 407.52 211.68 L 417.12 218.88" fill="none" stroke="#000000" stroke-width="1.15"/>
+  <path d="M 147.36 130.56 L 156.96 137.76 L 149.76 147.36" fill="none" stroke="#000000" stroke-width="1.15"/>
+  <path d="M 322.56 132.96 L 315.36 142.56 L 324.96 149.76" fill="none" stroke="#000000" stroke-width="1.15"/>
+  <circle cx="71.04" cy="232.32" r="2.60" fill="#000000" stroke="none"/>
+  <text x="63.54" y="251.26" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="end" fill="#000000">A</text>
+  <circle cx="455.04" cy="232.32" r="2.60" fill="#000000" stroke="none"/>
+  <text x="462.54" y="251.26" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="start" fill="#000000">B</text>
+  <circle cx="263.04" cy="232.32" r="2.60" fill="#000000" stroke="none"/>
+  <text x="270.54" y="251.26" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="start" fill="#000000">M</text>
+  <circle cx="263.04" cy="424.32" r="2.60" fill="#000000" stroke="none"/>
+  <text x="263.04" y="445.27" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="middle" fill="#000000">D</text>
+  <circle cx="209.28" cy="48.00" r="2.60" fill="#000000" stroke="none"/>
+  <text x="209.28" y="38.95" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="middle" fill="#000000">C</text>
+  <circle cx="235.68" cy="232.32" r="2.60" fill="#000000" stroke="none"/>
+  <text x="228.18" y="251.26" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="end" fill="#000000">E</text>
+  <circle cx="48.00" cy="263.04" r="2.60" fill="#000000" stroke="none"/>
+  <text x="40.50" y="281.98" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="end" fill="#000000">P</text>
+  <circle cx="424.32" cy="209.28" r="2.60" fill="#000000" stroke="none"/>
+  <text x="431.82" y="228.22" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="start" fill="#000000">Q</text>
+  <circle cx="140.16" cy="140.16" r="2.60" fill="#000000" stroke="none"/>
+  <text x="132.66" y="133.12" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="end" fill="#000000">X</text>
+  <circle cx="332.16" cy="140.16" r="2.60" fill="#000000" stroke="none"/>
+  <text x="339.66" y="133.12" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="start" fill="#000000">Y</text>
+</svg>
