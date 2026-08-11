@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70mm" height="68.88mm" viewBox="0 0 480 472">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <line x1="48.00" y1="232.32" x2="432.00" y2="232.32" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="432.00" y1="232.32" x2="186.24" y2="48.00" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="186.24" y1="48.00" x2="48.00" y2="232.32" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="186.24" y1="48.00" x2="240.00" y2="424.32" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="240.00" y1="424.32" x2="240.00" y2="232.32" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <path d="M 179.04 57.60 L 188.64 64.80 L 195.84 55.20" fill="none" stroke="#000000" stroke-width="1.15"/>
+  <path d="M 240.00 244.32 L 252.00 244.32 L 252.00 232.32" fill="none" stroke="#000000" stroke-width="1.15"/>
+  <circle cx="48.00" cy="232.32" r="2.60" fill="#000000" stroke="none"/>
+  <text x="40.50" y="251.26" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="end" fill="#000000">A</text>
+  <circle cx="432.00" cy="232.32" r="2.60" fill="#000000" stroke="none"/>
+  <text x="439.50" y="251.26" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="start" fill="#000000">B</text>
+  <circle cx="186.24" cy="48.00" r="2.60" fill="#000000" stroke="none"/>
+  <text x="186.24" y="38.95" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="middle" fill="#000000">C</text>
+  <circle cx="240.00" cy="424.32" r="2.60" fill="#000000" stroke="none"/>
+  <text x="240.00" y="445.27" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="middle" fill="#000000">D</text>
+  <circle cx="212.64" cy="232.32" r="2.60" fill="#000000" stroke="none"/>
+  <text x="205.14" y="251.26" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="end" fill="#000000">E</text>
+  <circle cx="240.00" cy="232.32" r="2.60" fill="#000000" stroke="none"/>
+  <text x="247.50" y="251.26" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="start" fill="#000000">M</text>
+</svg>
