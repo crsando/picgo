@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70mm" height="44.17mm" viewBox="0 0 480 303">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <line x1="254.88" y1="136.80" x2="166.08" y2="254.88" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="166.08" y1="254.88" x2="313.92" y2="254.88" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="313.92" y1="254.88" x2="254.88" y2="136.80" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="254.88" y1="136.80" x2="136.80" y2="48.00" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="136.80" y1="48.00" x2="48.00" y2="166.08" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="48.00" y1="166.08" x2="166.08" y2="254.88" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="313.92" y1="254.88" x2="432.00" y2="195.84" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="432.00" y1="195.84" x2="372.96" y2="77.76" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="372.96" y1="77.76" x2="254.88" y2="136.80" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="166.08" y1="254.88" x2="372.96" y2="77.76" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <line x1="313.92" y1="254.88" x2="136.80" y2="48.00" stroke="#000000" stroke-width="1.7" stroke-linecap="round"/>
+  <circle cx="254.88" cy="136.80" r="2.60" fill="#000000" stroke="none"/>
+  <text x="254.88" y="127.75" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="middle" fill="#000000">A</text>
+  <circle cx="166.08" cy="254.88" r="2.60" fill="#000000" stroke="none"/>
+  <text x="158.58" y="273.82" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="end" fill="#000000">B</text>
+  <circle cx="313.92" cy="254.88" r="2.60" fill="#000000" stroke="none"/>
+  <text x="321.42" y="273.82" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="start" fill="#000000">C</text>
+  <circle cx="48.00" cy="166.08" r="2.60" fill="#000000" stroke="none"/>
+  <text x="33.00" y="172.03" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="end" fill="#000000">M</text>
+  <circle cx="136.80" cy="48.00" r="2.60" fill="#000000" stroke="none"/>
+  <text x="129.30" y="40.96" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="end" fill="#000000">N</text>
+  <circle cx="432.00" cy="195.84" r="2.60" fill="#000000" stroke="none"/>
+  <text x="444.99" y="209.29" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="start" fill="#000000">P</text>
+  <circle cx="372.96" cy="77.76" r="2.60" fill="#000000" stroke="none"/>
+  <text x="380.46" y="70.72" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" text-anchor="start" fill="#000000">Q</text>
+</svg>
