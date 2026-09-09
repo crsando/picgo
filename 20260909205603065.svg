@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="640" viewBox="0 0 1024 640">
+  <title>等腰三角形角度题</title>
+  <desc>AB 等于 AC，AD 等于 AE，D 在 BC 上，E 在 AC 上，角 EDC 为 30 度，角 ACB 为 20 度，求角 BAD。</desc>
+  <rect width="1024" height="640" fill="#fff"/>
+  <g fill="none" stroke="#222" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M100 500H900"/>
+    <path d="M100 500L500 354.412L900 500"/>
+    <path d="M500 354.412L474.329 500"/>
+    <path d="M474.329 500L638.919 404.974"/>
+  </g>
+  <g fill="#111">
+    <circle cx="100" cy="500" r="5"/><circle cx="474.329" cy="500" r="5"/>
+    <circle cx="900" cy="500" r="5"/><circle cx="500" cy="354.412" r="5"/>
+    <circle cx="638.919" cy="404.974" r="5"/>
+  </g>
+  <g fill="#111" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="28" font-style="italic">
+    <text x="490" y="325">A</text><text x="72" y="540">B</text><text x="461" y="540">D</text>
+    <text x="905" y="540">C</text><text x="650" y="400">E</text>
+  </g>
+  <g fill="none" stroke="#2f8f4e" stroke-width="3">
+    <path d="M468.71 388.992 A36 36 0 0 1 493.749 389.865"/>
+    <path d="M526.329 500 A52 52 0 0 0 519.362 474"/>
+    <path d="M850 500 A50 50 0 0 1 853.015 482.899"/>
+  </g>
+  <g fill="#222" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="24">
+    <text x="447" y="416" font-style="italic">α = ?</text>
+    <text x="521" y="469">30°</text>
+    <text x="820" y="480">20°</text>
+  </g>
+</svg>
