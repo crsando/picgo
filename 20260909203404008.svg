@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="704" viewBox="0 0 1024 704">
+  <title>等腰三角形几何题示意图</title>
+  <desc>AB 等于 AC，角 C 等于 30 度，AD 与 AE 相等，D 在 BC 上，E 在 AC 上，求 D 点处的 alpha。</desc>
+  <rect width="1024" height="704" fill="#fff"/>
+  <g fill="none" stroke="#333" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 180 600 L 540 600 L 900 600"/>
+    <path d="M 180 600 L 540 392"/>
+    <path d="M 540 392 L 900 600"/>
+    <path d="M 540 392 L 540 600"/>
+    <path d="M 540 600 L 720 496"/>
+  </g>
+  <g fill="#7070df" stroke="#222" stroke-width="2">
+    <circle cx="180" cy="600" r="9"/><circle cx="540" cy="600" r="9"/><circle cx="900" cy="600" r="9"/>
+    <circle cx="540" cy="392" r="9"/><circle cx="720" cy="496" r="9"/>
+  </g>
+  <g fill="#111" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="30" font-style="italic">
+    <text x="528" y="362">A</text><text x="132" y="648">B</text><text x="525" y="648">D</text>
+    <text x="905" y="648">C</text><text x="730" y="488">E</text>
+  </g>
+  <g fill="none" stroke="#3c9b57" stroke-width="4">
+    <path d="M 540 444 A 52 52 0 0 1 495 418"/>
+    <path d="M 900 600 A 56 56 0 0 0 852 572"/>
+    <path d="M 540 600 A 62 62 0 0 1 594 568"/>
+  </g>
+  <g fill="#222" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="25">
+    <text x="491" y="476">60°</text><text x="846" y="565">30°</text>
+    <text x="592" y="570" font-style="italic">α = ?</text>
+  </g>
+</svg>
