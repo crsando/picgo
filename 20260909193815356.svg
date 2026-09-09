@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="704" viewBox="0 0 1024 704">
+  <title>几何题示意图</title>
+  <desc>点 D、B、C 共线，A 为顶点，E 在线段 AB 上，连接 DE、AB、AC。</desc>
+  <rect width="1024" height="704" fill="#fff"/>
+  <g fill="none" stroke="#222" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 74 640 L 430 640 L 637 640"/>
+    <path d="M 430 640 L 367 292"/>
+    <path d="M 367 292 L 637 640"/>
+    <path d="M 74 640 L 347 413"/>
+  </g>
+  <g fill="#111">
+    <circle cx="74" cy="640" r="5"/><circle cx="430" cy="640" r="5"/><circle cx="637" cy="640" r="5"/>
+    <circle cx="367" cy="292" r="5"/><circle cx="347" cy="413" r="5"/>
+  </g>
+  <g fill="#111" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="25">
+    <text x="359" y="278">A</text><text x="337" y="405">E</text><text x="421" y="672">B</text>
+    <text x="638" y="672">C</text><text x="47" y="672">D</text>
+  </g>
+  <path d="M 430 640 A 46 46 0 0 1 425 613" fill="none" stroke="#e53935" stroke-width="3"/>
+  <text x="380" y="620" fill="#e53935" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="26">?</text>
+</svg>
