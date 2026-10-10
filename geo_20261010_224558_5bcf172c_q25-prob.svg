@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="306.1424pt" height="139.28368pt" viewBox="-12.75961 -12.95256 306.1424 139.28368 "> 
+<g transform="translate(0, 126.33112 ) scale(1,-1) translate(0,12.95256 )"> 
+        <g stroke="#000" fill="#000">
+ <g stroke-width="0.4">
+ <g stroke-linejoin="round">
+ <g stroke-linecap="round">
+ <g stroke-width="0.8">
+ <path d=" M 128.03734 114.38275 L 0.0 0.0 L 123.9971 0.0 Z  " fill="none"/>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 128.03734 114.38275 L 61.99855 0.0  " fill="none"/>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 0.0 0.0 L 126.79697 79.30351  " fill="none"/>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 0.0 0.0 L 61.99855 0.0  " fill="none"/>
+ <g stroke-width="0.4">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <path d=" M 30.99925 -3.0 L 30.99925 3.0  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 61.99855 0.0 L 123.9971 0.0  " fill="none"/>
+ <g stroke-width="0.4">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <path d=" M 92.9978 -3.0 L 92.9978 3.0  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 128.03734 114.38275 L 126.79697 79.30351  " fill="none"/>
+ <g stroke-width="0.4">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <path d=" M 124.47258 98.44864 L 130.46864 98.23679 M 124.36665 95.45062 L 130.36272 95.23877  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ <g stroke-width="0.8">
+ <path d=" M 126.79697 79.30351 L 97.03828 60.68958  " fill="none"/>
+ <g stroke-width="0.4">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <path d=" M 111.5994 73.336 L 114.78113 68.24924 M 109.05603 71.74515 L 112.23776 66.65839  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ <path d=" M 128.03734 114.38275 M 129.33734 114.38275 C 129.33734 115.10072 128.75531 115.68275 128.03734 115.68275 C 127.31937 115.68275 126.73734 115.10072 126.73734 114.38275 C 126.73734 113.66478 127.31937 113.08275 128.03734 113.08275 C 128.75531 113.08275 129.33734 113.66478 129.33734 114.38275 Z M 128.03734 114.38275  " stroke="none"/>
+ <path d=" M 0.0 0.0 M 1.3 0.0 C 1.3 0.71797 0.71797 1.3 0.0 1.3 C -0.71797 1.3 -1.3 0.71797 -1.3 0.0 C -1.3 -0.71797 -0.71797 -1.3 0.0 -1.3 C 0.71797 -1.3 1.3 -0.71797 1.3 0.0 Z M 0.0 0.0  " stroke="none"/>
+ <path d=" M 123.9971 0.0 M 125.2971 0.0 C 125.2971 0.71797 124.71507 1.3 123.9971 1.3 C 123.27913 1.3 122.6971 0.71797 122.6971 0.0 C 122.6971 -0.71797 123.27913 -1.3 123.9971 -1.3 C 124.71507 -1.3 125.2971 -0.71797 125.2971 0.0 Z M 123.9971 0.0  " stroke="none"/>
+ <path d=" M 61.99855 0.0 M 63.29855 0.0 C 63.29855 0.71797 62.71652 1.3 61.99855 1.3 C 61.28058 1.3 60.69855 0.71797 60.69855 0.0 C 60.69855 -0.71797 61.28058 -1.3 61.99855 -1.3 C 62.71652 -1.3 63.29855 -0.71797 63.29855 0.0 Z M 61.99855 0.0  " stroke="none"/>
+ <path d=" M 126.79697 79.30351 M 128.09697 79.30351 C 128.09697 80.02148 127.51494 80.60352 126.79697 80.60352 C 126.079 80.60352 125.49696 80.02148 125.49696 79.30351 C 125.49696 78.58554 126.079 78.00351 126.79697 78.00351 C 127.51494 78.00351 128.09697 78.58554 128.09697 79.30351 Z M 126.79697 79.30351  " stroke="none"/>
+ <path d=" M 97.03828 60.68958 M 98.33829 60.68958 C 98.33829 61.40755 97.75626 61.98958 97.03828 61.98958 C 96.32031 61.98958 95.73828 61.40755 95.73828 60.68958 C 95.73828 59.9716 96.32031 59.38957 97.03828 59.38957 C 97.75626 59.38957 98.33829 59.9716 98.33829 60.68958 Z M 97.03828 60.68958  " stroke="none"/>
+ <g transform="translate(57.72008,-11.95256)">
+ <g fill="#000">
+ <text style="stroke:none" font-family="Times New Roman, serif" fill="#000" transform="scale(1,-1) translate(4.27847,0)" text-anchor="middle"  font-size="11"> 
+ <tspan font-family="Times New Roman, serif" font-style="italic">D</tspan>
+ </text> 
+</g>
+ </g>
+ <g transform="translate(85.7362,61.54109)">
+ <g fill="#000">
+ <text style="stroke:none" font-family="Times New Roman, serif" fill="#000" transform="scale(1,-1) translate(3.90973,0)" text-anchor="middle"  font-size="11"> 
+ <tspan font-family="Times New Roman, serif" font-style="italic">F</tspan> 
+ </text> 
+</g>
+ </g>
+ <g transform="translate(131.35327,75.88686)">
+ <g fill="#000">
+ <text style="stroke:none" font-family="Times New Roman, serif" fill="#000" transform="scale(1,-1) translate(3.97916,0)" text-anchor="middle"  font-size="11"> 
+ <tspan font-family="Times New Roman, serif" font-style="italic">E</tspan> 
+ </text> 
+</g>
+ </g>
+ <g transform="translate(128.30501,118.4978)">
+ <g fill="#000">
+ <text style="stroke:none" font-family="Times New Roman, serif" fill="#000" transform="scale(1,-1) translate(3.75,0)" text-anchor="middle"  font-size="11"> 
+ <tspan font-family="Times New Roman, serif" font-style="italic">A</tspan> 
+ </text> 
+</g>
+ </g>
+ <g transform="translate(-11.75961,-7.06702)">
+ <g fill="#000">
+ <text style="stroke:none" font-family="Times New Roman, serif" fill="#000" transform="scale(1,-1) translate(4.0434,0)" text-anchor="middle"  font-size="11"> 
+ <tspan font-family="Times New Roman, serif" font-style="italic">B</tspan> 
+ </text> 
+</g>
+ </g>
+ <g transform="translate(125.44069,-10.0488)">
+ <g fill="#000">
+ <text style="stroke:none" font-family="Times New Roman, serif" fill="#000" transform="scale(1,-1) translate(3.93124,0)" text-anchor="middle"  font-size="11"> 
+ <tspan font-family="Times New Roman, serif" font-style="italic">C</tspan> 
+ </text> 
+</g>
+ </g>
+ </g>
+ </g>
+ </g>
+ </g>
+ 
+                                                                              </g> 
+</svg> 
